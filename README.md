@@ -33,8 +33,9 @@ int main() {
     Vector myVector = createVector(10, sizeof(int));
 
     // Add an element to the vector
-    int element = 5;
-    pushBack(&myVector, &element);
+    int element;
+    pushBack(&myVector, addInt(&element, 5);
+    pushBack(&myVector, addInt(&element, 10);
 
     // Access and modify elements
     int *elemPtr = (int *)get(&myVector, 0);
