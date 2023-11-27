@@ -1,4 +1,5 @@
-#include "dynamicList.h"
+#include "vector.h"
+#include "addElements.h"
 // 사용 예시
 int main()
 {
